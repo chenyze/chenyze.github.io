@@ -5,7 +5,7 @@ SQL enthusiast. Data-cleaning zealot. Language nerd. Food writer. Eight years of
 
 # Past Projects
 
-## [MM Bus Ticket]
+## [MM Bus Ticket](https://github.com/chenyze/capstone)
 MM Bus Ticket is the market leader in Burma in providing a digital platform for long-distance coach buses to sell and manage seat inventory. 
 
 I had the privilege of working with real data (over 4.4m transactions in 2018 alone) and understanding how data systems cope with business constraints in the real world. I undertook major data cleaning and transformation to deliver new insights. Machine learning models were also used to predict ticket sales for different customer segments.
