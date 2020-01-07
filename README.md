@@ -4,6 +4,7 @@ SQL enthusiast. Data-cleaning zealot. Language nerd. Food writer. Eight years of
 
 
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/chenyze/)*
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="chenyze"><a class="LI-simple-link" href='https://sg.linkedin.com/in/chenyze?trk=profile-badge'>Chenyze M</a></div>
 
 
 # Past Projects
@@ -25,3 +26,5 @@ Using the Ames Housing Dataset that is available on [Kaggle](https://www.kaggle.
 
 I built a supervised machine learning model to classify unseen reddit posts into either r/wine or r/whisky. The data was scraped using Reddit's API together with BeautifulSoup, and Regex was used extensively to remove emoji, links and accented letters. SpaCy was used for lemmatizing and tokenizing, and I ran multiple models comparingCountVectorizer vs TF-IDF, as well as Logistic Regression vs Multinomial Naive Bayes vs Random Forest Classifier.
 
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
