@@ -1,6 +1,9 @@
 # About Me
 
-SQL enthusiast. Data-cleaning zealot. Language nerd. Food writer. Eight years of insight into consumer behaviour as a former journalist and PR practitioner in the F&B space. Aspires to use data to improve consumer experience.
+SQL enthusiast. Data-cleaning zealot. Language nerd. Food writer. Eight years of insight into consumer behaviour as a former journalist and PR practitioner in the F&B space. Aspires to use data to improve consumer experience. ([more about me](https://profiles.generalassemb.ly/profiles/chenyze))
+
+
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/chenyze/)*
 
 
 # Past Projects
